@@ -28,13 +28,8 @@ A project dedicated to collecting and reviving forgotten yet essential technolog
 
 ## 📚 What I’m Working On
 
-- **🔄 Reviving Old Tech**: Researching and documenting legacy technologies, and creating guides to make them useful in today’s context.
+- **🔄 Collecting Old Tech**: Researching and documenting legacy technologies, and creating guides to make them useful in today’s context.
 - **🛠️ Building Bridges**: Developing practical examples and tutorials to bridge the gap between classic and contemporary tech.
-
-## 📈 Achievements
-
-- **🏆 Notable Contributions**: [Link to significant contributions or projects](#).
-- **🔧 Tech Stack**: Experienced with JavaScript, TypeScript, Go, and various legacy technologies.
 
 ## 📫 Get in Touch
 
@@ -42,11 +37,6 @@ Feel free to reach out if you’re interested in discussing tech history, contri
 
 - **[LinkedIn](https://www.linkedin.com/in/rakshyak-satpathy/)**
 - **[GitHub](https://github.com/rakshyak-98)**
-
-## 📢 Recent Blog Posts
-
-- [Reviving Legacy Tech: A Journey Through the Classics](#) - An article on my latest insights and discoveries.
-- [Modern Techniques Meet Classic Code: Bridging the Gap](#) - A blog post about integrating old standards with new methods.
 
 ## 📊 GitHub Stats
 
