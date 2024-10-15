@@ -12,13 +12,12 @@
 
 ## 🚀 Projects
 
-### [Back2Basics](https://github.com/your-repo-link)
+### [Back2Basics](https://github.com/rakshyak-98/Back2Basics#readme)
 A project dedicated to collecting and reviving forgotten yet essential technologies. Join me in exploring and learning from the old-school tech that still has a lot to offer!
 
 #### Highlights:
 - **📊 Key Metrics**: Showcasing notable stats or milestones related to the project.
 - **📂 Documentation**: Detailed README and user guides available for a comprehensive understanding.
-- **🔗 Demo**: [Live Demo](#) (if applicable) to see the project in action.
 
 ## 🌟 Highlights
 
