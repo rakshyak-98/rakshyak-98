@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m a passionate software engineer dedicated to reviving and celebrating the foundational technologies that have shaped the industry. 🌟
 
-![Tech GIF](https://media.giphy.com/media/26gslScm93GTgVaA4/giphy.gif)
+![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBvYXE2bTFzN2x2dnphZzkwN3Vsb281OHZtY2pqaHVoeG1wdDFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WubZPnIa2o0CI/giphy.gif)
 
 ## 🧠 Technological Odyssey
 
