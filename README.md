@@ -1,12 +1,10 @@
 # 👋 Hi, I’m Rakshyak!
 
-Welcome to my GitHub profile! I’m a passionate software engineer dedicated to reviving and celebrating the foundational technologies that have shaped the industry. 🌟
-
 ![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBvYXE2bTFzN2x2dnphZzkwN3Vsb281OHZtY2pqaHVoeG1wdDFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WubZPnIa2o0CI/giphy.gif)
 
 ## 🧠 Technological Odyssey
 
-- **💡 Code Explorer**: My journey through technology is driven by a fascination with foundational standards and practices. Like Grace Hopper, who emphasized the importance of making programming languages accessible and intuitive, I strive to unearth and honor the principles that have shaped our digital world.
+- **💡 Code Explorer**: My journey through technology is driven by a fascination with foundational standards and practices.
 
 - **🖥️ Programming Virtuoso**: My main languages are JavaScript, TypeScript, and Go. I revel in integrating timeless techniques with modern methodologies. Inspired by Linus Torvalds' commitment to transparency and collaboration, I aim to build projects that not only utilize classic tech but also advance it.
 
