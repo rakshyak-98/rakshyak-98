@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rakshak!
+# 👋 Hi, I’m Rakshyak!
 
 Welcome to my GitHub profile! I’m a passionate software engineer dedicated to reviving and celebrating the foundational technologies that have shaped the industry. 🌟
 
