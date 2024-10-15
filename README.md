@@ -2,7 +2,7 @@
 
 ![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBvYXE2bTFzN2x2dnphZzkwN3Vsb281OHZtY2pqaHVoeG1wdDFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WubZPnIa2o0CI/giphy.gif)
 
-## 🧠 Technological Odyssey
+## 🧠 What inspire me
 
 - **💡 Code Explorer**: My journey through technology is driven by a fascination with foundational standards and practices.
 
