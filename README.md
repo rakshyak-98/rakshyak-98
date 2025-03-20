@@ -1,44 +1,39 @@
-# 👋 Hi, I’m Rakshyak!
+# 👋 Hi, I’m Rakshyak!  
 
-![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBvYXE2bTFzN2x2dnphZzkwN3Vsb281OHZtY2pqaHVoeG1wdDFzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WubZPnIa2o0CI/giphy.gif)
+![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXBvYXE2bTFzN2x2dnphZzkwN3Vsb281OHZtY2pqaHVoeG1wdDFzMyZlcD12MV9pbnRlcm5pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WubZPnIa2o0CI/giphy.gif)  
 
-## 🧠 What inspire me
+## 🧠 Interests  
 
-- **💡 Code Explorer**: My journey through technology is driven by a fascination with foundational standards and practices.
+- **💡 Tech Foundations**: I enjoy exploring foundational tech and best practices that stand the test of time. 
+- **🖥️ Stack**: I primarily work with JavaScript, TypeScript, and Go, blending classic techniques with modern approaches.  
+- **🌟 Influences**: Inspired by **Grace Hopper** (compiler design) and **Linus Torvalds** (open-source development). I believe in transparency, collaboration, and the power of understanding the roots of technology.
 
-- **🖥️ Programming Virtuoso**: My main languages are JavaScript, TypeScript, and Go. I revel in integrating timeless techniques with modern methodologies. Inspired by Linus Torvalds' commitment to transparency and collaboration, I aim to build projects that not only utilize classic tech but also advance it.
+## 🚀 Projects  
 
-- **🌟 Pioneering Influences**: Guided by the wisdom of **Grace Hopper**, a visionary in compiler design, and **Linus Torvalds**, whose Linux kernel revolutionized open-source development. Their monumental contributions remind me of the enduring significance of understanding and leveraging the roots of our technological landscape.
+### [Back2Basics](https://github.com/rakshyak-98/Back2Basics#readme)  
+A collection of essential yet often overlooked technologies. Exploring their relevance and impact in today’s world. 
 
-## 🚀 Projects
+#### Highlights:  
+- **📊 Key Metrics**: Project milestones and stats.  
+- **📂 Documentation**: Comprehensive guides for learning.  
 
-### [Back2Basics](https://github.com/rakshyak-98/Back2Basics#readme)
-A project dedicated to collecting and reviving forgotten yet essential technologies. Join me in exploring and learning from the old-school tech that still has a lot to offer!
+## 🌟 What I Focus On
 
-#### Highlights:
-- **📊 Key Metrics**: Showcasing notable stats or milestones related to the project.
-- **📂 Documentation**: Detailed README and user guides available for a comprehensive understanding.
+- **🛠️ Tech Documentation**: Preserving and explaining foundational technologies.  
+- **🌐 Bridging Generations**: Making legacy tech accessible to both seasoned and new developers. 
+- **🔍 Rethinking Modern Tech**: Exploring how past innovations can inspire future solutions. 
 
-## 🌟 Highlights
+## 📚 Ongoing Work  
 
-- **🛠️ Preserving Legacy**: Keeping foundational tech knowledge alive and relevant through thorough documentation and practical applications.
-- **🌐 Bridging Epochs**: Connecting seasoned developers with new tech enthusiasts by making historic technologies accessible and understandable.
-- **🔍 Innovating Tradition**: Rethinking modern abstractions through the lens of legacy technologies to discover new possibilities.
+- **🔄 Researching Legacy Tech**: Studying and documenting older technologies.  
+- **🛠️ Building Practical Examples**: Bridging the gap between old and new tech through tutorials.  
 
-## 📚 What I’m Working On
+## 📫 Connect  
 
-- **🔄 Collecting Old Tech**: Researching and documenting legacy technologies, and creating guides to make them useful in today’s context.
-- **🛠️ Building Bridges**: Developing practical examples and tutorials to bridge the gap between classic and contemporary tech.
+- **[LinkedIn](https://www.linkedin.com/in/rakshyak-satpathy/)**  
+- **[GitHub](https://github.com/rakshyak-98)**  
 
-## 📫 Get in Touch
+## 📊 GitHub Stats  
 
-Feel free to reach out if you’re interested in discussing tech history, contributing to projects, or just chatting about coding!
-
-- **[LinkedIn](https://www.linkedin.com/in/rakshyak-satpathy/)**
-- **[GitHub](https://github.com/rakshyak-98)**
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshyak-98&show_icons=true&count_private=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshyak-98&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshyak-98&show_icons=true&count_private=true&hide_title=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshyak-98&layout=compact)  
